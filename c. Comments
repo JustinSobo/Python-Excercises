@@ -1,0 +1,13 @@
+# Exercise:
+# Comments in Python are written with a special character, which one?
+# This is a comment
+
+Solution:
+
+# This is a comment
+
+or
+
+'''
+This is a comment
+'''
