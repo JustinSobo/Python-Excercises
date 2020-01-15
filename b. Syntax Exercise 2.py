@@ -6,7 +6,7 @@
 # if 5 > 2:
 # print("Five is greater than two!")
 
-Solution:
+# Solution:
 
 if 5 > 2:
   print("Five is greater than two!")
